@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Lina%20%7C%20Engineering%20Student&fontAlign=50&fontAlignY=35&desc=Data%20Analysis%20for%20Cybersecurity&descAlign=50&descAlignY=58&fontColor=FFFFFF&descColor=FFFFFF&color=0:E9D8FD,100:B57EDC" alt="header" />
+	<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&pause=1200&color=B57EDC&center=true&vCenter=true&repeat=true&width=700&height=120&lines=Lina;Engineering+Student" alt="animated title" />
 </p>
 
 <p align="center">
@@ -17,18 +17,22 @@
 
 ### Tecnologías
 
-<p>
-	<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-B57EDC?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-	<a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-B57EDC?style=for-the-badge&logo=django&logoColor=white" alt="Django" /></a>
-	<a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-B57EDC?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
-	<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-B57EDC?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" /></a>
-	<a href="https://angular.dev/"><img src="https://img.shields.io/badge/Angular-B57EDC?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" /></a>
-	<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-B57EDC?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
-	<a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-B57EDC?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
-	<a href="https://www.oracle.com/database/"><img src="https://img.shields.io/badge/Oracle-B57EDC?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" /></a>
-	<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-B57EDC?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
-	<a href="https://www.kernel.org/"><img src="https://img.shields.io/badge/Linux-B57EDC?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" /></a>
-</p>
+<table align="center">
+	<tr>
+		<td align="center"><a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-B57EDC?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a></td>
+		<td align="center"><a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-B57EDC?style=for-the-badge&logo=django&logoColor=white" alt="Django" /></a></td>
+		<td align="center"><a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-B57EDC?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-B57EDC?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" /></a></td>
+		<td align="center"><a href="https://angular.dev/"><img src="https://img.shields.io/badge/Angular-B57EDC?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" /></a></td>
+	</tr>
+	<tr>
+		<td align="center"><a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-B57EDC?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a></td>
+		<td align="center"><a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-B57EDC?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a></td>
+		<td align="center"><a href="https://www.oracle.com/database/"><img src="https://img.shields.io/badge/Oracle-B57EDC?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" /></a></td>
+		<td align="center"><a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-B57EDC?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a></td>
+		<td align="center"><a href="https://www.kernel.org/"><img src="https://img.shields.io/badge/Linux-B57EDC?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" /></a></td>
+	</tr>
+</table>
 
 ### Perfil Profesional
 
