@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=27&duration=2800&pause=900&color=B57EDC&center=true&vCenter=true&width=900&lines=JARVIS+BOOT+SEQUENCE+%E2%80%94+ONLINE;Engineering+Student+%7C+Cybersecurity+Focus;Data+Analysis+%2B+Problem+Solving+%2B+Secure+Systems" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=27&duration=2800&pause=900&color=B57EDC&center=true&vCenter=true&width=900&lines=SYSTEM+BOOT+SEQUENCE+%E2%80%94+ONLINE;Engineering+Candidate+%7C+Cybersecurity+Focus;Data+Analysis+%2B+Problem+Solving+%2B+Secure+Systems" alt="typing" />
 </p>
 
 <p align="center">
@@ -15,13 +15,13 @@
 ```text
 [SYSTEM LOG // PROFILE INIT]
 > Alias.............. Lina Andrea Bello Ballen
-> Role............... Engineering Student (5th semester)
+> Role............... Engineering Candidate (5th semester)
 > Core Focus......... Cybersecurity + Data Analysis
 > Current Mode....... Build skills, solve problems, ship value
 > Motto.............. Resolver problemas hoy para proteger sistemas manana
 ```
 
-## JARVIS // Sobre Mi
+## 💻 About Me
 
 Diseno mi camino profesional combinando ingenieria, analisis y seguridad. Me gusta trabajar en problemas reales con pensamiento estructurado, construir soluciones claras y mejorar su robustez desde el inicio.
 
@@ -30,7 +30,7 @@ Diseno mi camino profesional combinando ingenieria, analisis y seguridad. Me gus
 3. Veo la ciberseguridad como una disciplina de impacto tecnico y humano.
 4. Busco mi primera oportunidad laboral para aportar desde el dia uno.
 
-## Tech Arsenal
+## 🛠️ Tech
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-7E22CE?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -48,7 +48,7 @@ Diseno mi camino profesional combinando ingenieria, analisis y seguridad. Me gus
   <img src="https://img.shields.io/badge/Linux-6D28D9?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
 </p>
 
-## Mission Console
+## 🪄 Mission Console
 
 ```text
 [ACTIVE OBJECTIVE]
