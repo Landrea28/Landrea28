@@ -1,40 +1,69 @@
 <p align="center">
-	<b style="font-size: 56px; color: #B57EDC;">Lina Andrea Bello Ballen</b><br />
-	<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1000&color=B57EDC&center=true&vCenter=true&repeat=true&width=700&height=90&lines=%F0%9F%8E%AE+Engineering+Candidate;%F0%9F%95%B9%EF%B8%8F+Engineering+Candidate;%F0%9F%91%BE+Engineering+Candidate" alt="animated title" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Lina%20Andrea%20Bello%20Ballen&fontSize=44&fontAlignY=38&fontColor=F3E8FF&color=0:120018,40:3B0764,100:B57EDC&animation=fadeIn" alt="header" />
 </p>
 
 <p align="center">
-	<i>"Resolver problemas hoy para proteger sistemas mañana."</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=27&duration=2800&pause=900&color=B57EDC&center=true&vCenter=true&width=900&lines=JARVIS+BOOT+SEQUENCE+%E2%80%94+ONLINE;Engineering+Student+%7C+Cybersecurity+Focus;Data+Analysis+%2B+Problem+Solving+%2B+Secure+Systems" alt="typing" />
 </p>
 
-## Hola, soy Lina Andrea Bello Ballen
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-6D28D9?style=for-the-badge&labelColor=0B0B12" alt="status" />
+  <img src="https://img.shields.io/badge/ARC%20CORE-PURPLE%20MODE-A855F7?style=for-the-badge&labelColor=0B0B12" alt="arc core" />
+  <img src="https://img.shields.io/badge/SECURITY-LEARNING%20AND%20BUILDING-C084FC?style=for-the-badge&labelColor=0B0B12" alt="security" />
+</p>
 
-- 🎓 Estudiante de **5to semestre de Ingeniería**.
-- 🧩 Me especializo en **resolución de problemas** con pensamiento analítico y enfoque práctico.
-- 🐍 Desarrollo proyectos con **Python** y **Bases de Datos (Oracle/MySQL)**.
-- 📊 Veo el **análisis de datos** como una ruta clave hacia decisiones de seguridad más inteligentes.
-- 🔐 Mi meta es crecer profesionalmente en el mundo de la **Ciberseguridad**.
-- 🚀 Busco mi **primera oportunidad laboral** para aportar valor real desde el día uno.
+```text
+[SYSTEM LOG // PROFILE INIT]
+> Alias.............. Lina Andrea Bello Ballen
+> Role............... Engineering Student (5th semester)
+> Core Focus......... Cybersecurity + Data Analysis
+> Current Mode....... Build skills, solve problems, ship value
+> Motto.............. Resolver problemas hoy para proteger sistemas manana
+```
 
-### Tecnologías
+## JARVIS // Sobre Mi
 
-<table align="center">
-	<tr>
-		<td align="center"><a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-B57EDC?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a></td>
-		<td align="center"><a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-B57EDC?style=for-the-badge&logo=django&logoColor=white" alt="Django" /></a></td>
-		<td align="center"><a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-B57EDC?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-B57EDC?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" /></a></td>
-		<td align="center"><a href="https://angular.dev/"><img src="https://img.shields.io/badge/Angular-B57EDC?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" /></a></td>
-	</tr>
-	<tr>
-		<td align="center"><a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-B57EDC?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a></td>
-		<td align="center"><a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-B57EDC?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a></td>
-		<td align="center"><a href="https://www.oracle.com/database/"><img src="https://img.shields.io/badge/Oracle-B57EDC?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" /></a></td>
-		<td align="center"><a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-B57EDC?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a></td>
-		<td align="center"><a href="https://www.kernel.org/"><img src="https://img.shields.io/badge/Linux-B57EDC?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" /></a></td>
-	</tr>
-</table>
+Diseno mi camino profesional combinando ingenieria, analisis y seguridad. Me gusta trabajar en problemas reales con pensamiento estructurado, construir soluciones claras y mejorar su robustez desde el inicio.
 
-### Perfil Profesional
+1. Me especializo en resolucion de problemas con enfoque analitico y practico.
+2. Desarrollo proyectos con Python y bases de datos relacionales.
+3. Veo la ciberseguridad como una disciplina de impacto tecnico y humano.
+4. Busco mi primera oportunidad laboral para aportar desde el dia uno.
 
-Construyo mi camino combinando **ingeniería, datos y seguridad informática**. Me motiva crear soluciones claras, escalables y seguras, mientras sigo aprendiendo y preparándome para aportar en proyectos reales de ciberseguridad.
+## Tech Arsenal
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-7E22CE?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-6D28D9?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Java-5B21B6?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-7C3AED?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Angular-8B5CF6?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-A855F7?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-C084FC?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Oracle-9333EA?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/MySQL-7E22CE?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Linux-6D28D9?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+</p>
+
+## Mission Console
+
+```text
+[ACTIVE OBJECTIVE]
+Design and develop secure, scalable, and useful solutions.
+
+[NEXT TARGETS]
+- Deepen cybersecurity fundamentals
+- Keep building Python + database projects
+- Strengthen analytical and incident-thinking mindset
+```
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:B57EDC,100:3B0764" alt="divider" />
+</p>
+
+<p align="center">
+  <b>Powered by discipline, curiosity, and purple neon energy.</b>
+</p>
