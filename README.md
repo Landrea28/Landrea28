@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=27&duration=2800&pause=900&color=B57EDC&center=true&vCenter=true&width=900&lines=SYSTEM+BOOT+SEQUENCE+%E2%80%94+ONLINE;Engineering+Candidate+%7C+Cybersecurity+Focus;Data+Analysis+%2B+Problem+Solving+%2B+Secure+Systems" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=27&duration=2800&pause=900&color=B57EDC&center=true&vCenter=true&width=900&lines=Engineering+Candidate+%7C+Cybersecurity+Focus;Data+Analysis+%2B+Problem+Solving+%2B+Secure+Systems" alt="typing" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 ```text
 [SYSTEM LOG // PROFILE INIT]
 > Alias.............. Lina Andrea Bello Ballen
-> Role............... Engineering Candidate (5th semester)
+> Role............... Engineering Candidate
 > Core Focus......... Cybersecurity + Data Analysis
 > Current Mode....... Build skills, solve problems, ship value
 > Motto.............. Resolver problemas hoy para proteger sistemas manana
