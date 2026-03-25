@@ -1,5 +1,5 @@
 <p align="center">
-	<b style="font-size: 84px;">Lina Andrea Bello Ballen</b><br />
+	<b style="font-size: 56px; color: #B57EDC;">Lina Andrea Bello Ballen</b><br />
 	<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1000&color=B57EDC&center=true&vCenter=true&repeat=true&width=700&height=90&lines=%F0%9F%8E%AE+Engineering+Candidate;%F0%9F%95%B9%EF%B8%8F+Engineering+Candidate;%F0%9F%91%BE+Engineering+Candidate" alt="animated title" />
 </p>
 
