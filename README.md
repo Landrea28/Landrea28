@@ -1,12 +1,13 @@
 <p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&pause=1200&color=B57EDC&center=true&vCenter=true&repeat=true&width=700&height=120&lines=Lina;Engineering+Student" alt="animated title" />
+	<b style="font-size: 42px;">Lina Andrea Bello Ballen</b><br />
+	<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1000&color=B57EDC&center=true&vCenter=true&repeat=true&width=700&height=90&lines=%F0%9F%8E%AE+Engineering+Candidate;%F0%9F%95%B9%EF%B8%8F+Engineering+Candidate;%F0%9F%91%BE+Engineering+Candidate" alt="animated title" />
 </p>
 
 <p align="center">
 	<i>"Resolver problemas hoy para proteger sistemas mañana."</i>
 </p>
 
-## Hola, soy Lina
+## Hola, soy Lina Andrea Bello Ballen
 
 - 🎓 Estudiante de **5to semestre de Ingeniería**.
 - 🧩 Me especializo en **resolución de problemas** con pensamiento analítico y enfoque práctico.
